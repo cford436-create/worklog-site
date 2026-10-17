@@ -1,0 +1,9 @@
+{
+  "name": "worklog-public-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public website for the WorkLog iOS app",
+  "scripts": {
+    "dev": "node server.mjs"
+  }
+}

@@ -69,5 +69,5 @@ const server = createServer(async (request, response) => {
 });
 
 server.listen(port, host, () => {
-  console.log(`WorkLog site preview: http://${host}:${port}/`);
+  console.log(`WorkLog Voice site preview: http://${host}:${port}/`);
 });

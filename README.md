@@ -1,6 +1,6 @@
-# WorkLog Public Website
+# WorkLog Voice Public Website
 
-Static public website for the WorkLog iOS app. It contains three routes:
+Static public website for the WorkLog Voice iOS app. It contains three routes:
 
 - `/` — Home
 - `/privacy/` — Privacy Policy
@@ -57,5 +57,5 @@ The checked-in `vercel.json` supplies clean URL behavior and security headers. N
 
 - Keep `worklogappsupport@gmail.com` current on all pages.
 - Update the Privacy Policy effective date whenever its practices materially change.
-- Review the website copy against the released WorkLog app before each public version.
+- Review the website copy against the released WorkLog Voice app before each public version.
 - Do not add analytics, tracking scripts, cookies, or third-party embeds without updating the site's privacy disclosures.
